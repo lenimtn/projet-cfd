@@ -10,3 +10,5 @@ def laplacien_1d(x):
     D2[0, :] = 0
     D2[-1, :] = 0
     return D2
+
+print("normalement c bon ca c'es notre dossier commun, suffit de faire deux trois commandes à chaque debut et fin de session pour l'envoyer sur github (demande a claude))
